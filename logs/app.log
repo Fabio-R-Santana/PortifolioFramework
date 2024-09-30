@@ -15,3 +15,4 @@
 [2024-09-29T21:32:31.729013-03:00] app_logger.DEBUG: Execução de Action {"controller":{"App\\controllers\\PortifolioController":[]},"action":"paginaInicial","params":[]} []
 [2024-09-29T21:33:08.508146-03:00] app_logger.DEBUG: Execução de Action {"controller":{"App\\controllers\\PortifolioController":[]},"action":"paginaInicial","params":[]} []
 [2024-09-29T21:34:11.451699-03:00] app_logger.DEBUG: Execução de Action {"controller":{"App\\controllers\\PortifolioController":[]},"action":"paginaInicial","params":[]} []
+[2024-09-29T22:19:30.782177-03:00] app_logger.DEBUG: Execução de Action {"controller":{"App\\controllers\\PortifolioController":[]},"action":"paginaInicial","params":[]} []
