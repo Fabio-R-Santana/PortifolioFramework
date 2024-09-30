@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Portifolio Fábio</title>
+    <link rel="stylesheet" href="<?=$this->static("css/reset.css") ?>">
+    <link rel="stylesheet" href="<?=$this->static("css/style.css") ?>">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <script src="<?=$this->static("js/portifolio.js") ?>"></script>
+    <script>
+        var basePath="<?=$this->static("images") ?>";
+    </script>
+  </head>
+  <body>
+        <?=$this->include("header")?>
+        <?=$this->block("conteudoBloco")?>
+        <?=$this->include("footer")?>
+    </body>
+</html>
